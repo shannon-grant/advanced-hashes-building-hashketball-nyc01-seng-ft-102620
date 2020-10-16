@@ -1,2 +1,2 @@
 # Write your code here!
-game_hash.new
+game_hash = Hash.new
